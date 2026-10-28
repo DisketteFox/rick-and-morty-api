@@ -1,0 +1,12 @@
+{
+  "name": "rick-and-morty-api",
+  "version": "1.0.0",
+  "description": "Consulta la API de Rick y Morty: capítulo aleatorio de un personaje",
+  "main": "index.js",
+  "scripts": {
+    "index": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
